@@ -60,7 +60,8 @@ main {
   border-radius: 15px;
   text-decoration: none;
   color: #333333;
-  transition: background 400ms ease;
+  transition: background 500ms ease;
+  -webkit-tap-highlight-color: transparent;
 }
 .btn:hover {
   background: #d1cece;
